@@ -6,8 +6,6 @@ In this project, I build a Actrive Directory domain  on Virtual box . install Wi
 
 
 
-[layout](https://photos.app.goo.gl/LTpRv5RwAydLrQny7)
-
 
 - placehoder (Windows Event Logs)
 - placehoder(Linux Event Logs)
