@@ -2,10 +2,55 @@
 
 ## Introduction
 
-In this project, I build a Actrive Directory domain  on Virtual box . install Windows server 2019,Windows 10
-
 
 ![Image Alt Text](https://i.ibb.co/8jLNRgP/AD-PROJECT.jpg)
+
+
+
+
+In this project I create an Active Directory Domain
+Add users and computer(s) to the domain.  This simulates a corporate environment.
+
+Technologies used.
+•	Active Directory
+
+•	Active Directory Domain service
+
+•	Dynamic Name server (DNS)
+
+•	Dynamic Host Configuration Protocol (DHCP)
+
+•	Network Address Translation
+
+•	PowerShell 
+
+•	Oracle Virtual Box
+
+•	Windows server 2019
+
+•	Windows 10 Pro
+
+•	Internet Information Service IIS
+
+
+
+I created a VM using virtual box.
+
+Installed windows server 2019 ISO. 
+
+Installed and configured the following services. 
+
+•	Active Directory
+
+•	Active Directory Domain service
+
+•	Dynamic Name server (DNS)
+
+•	Dynamic Host Configuration Protocol (DHCP)
+
+•	Network Address Translation (NAT)
+
+
 
 
 
