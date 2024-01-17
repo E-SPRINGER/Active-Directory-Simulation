@@ -9,10 +9,10 @@
 
 
 In this project I create an Active Directory Domain
-Add users and computer(s) to the domain.  This simulates a corporate environment.
+Add multiple users using PowerShell adding a  computer(s) to the domain.  This simulates a corporate environment.
 
 Technologies used.
-•	Active Directory
+
 
 •	Active Directory Domain service
 
@@ -34,13 +34,15 @@ Technologies used.
 
 
 
-I created a VM using virtual box.
+I created a VM using virtual box, Installed windows server 2019 ISO. 
 
-Installed windows server 2019 ISO. 
+![Image Alt Text](https://i.ibb.co/NCW0DTt/ISO-SERVER2019.png)
 
-Installed and configured the following services. 
 
-•	Active Directory
+
+The following roles and services for Active Directory and the Domain Controller were configured
+
+
 
 •	Active Directory Domain service
 
@@ -48,7 +50,23 @@ Installed and configured the following services.
 
 •	Dynamic Host Configuration Protocol (DHCP)
 
-•	Network Address Translation (NAT)
+•	Remote Access
+
+•	File and Storage service
+
+•	IIS 
+
+
+![Image Alt Text](https://i.ibb.co/yN62tfK/Server-roles.png)
+
+
+
+
+
+on the Left shows how we get to the iternet after joining the domain ,  on the right shows internal network
+
+
+![Image Alt Text](https://i.ibb.co/wzYF07M/server-netork-adapters.png)
 
 
 
