@@ -71,6 +71,22 @@ on the Left shows how we get to the iternet after joining the domain ,  on the r
 
 
 
+Two custom PowerShell scripts were executed. The first script generated 1000 fictional names. Ultimately, 1,000 users were created within the matter of minutes.
+
+
+
+![Image Alt Text](https://i.ibb.co/PMZYt9B/generate-random-names-PS.png)
+
+
+
+
+
+
+
+My name was then placed at the top of the generated file to ensure the next script correctly generated the users (Added an extra r on end of my name 
+
+![Image Alt Text](https://i.ibb.co/RbSKbQD/namestxt.png)
+
 
 
 - placehoder (Windows Event Logs)
