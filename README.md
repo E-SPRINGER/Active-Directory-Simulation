@@ -89,6 +89,26 @@ My name was then placed at the top of the generated file to ensure the next scri
 
 
 
+
+This PowerShell Script created 1000 user accounts from the generated 
+
+
+![Image Alt Text](https://i.ibb.co/1vHgCtZ/Create-AD-accounts.png)
+
+
+Active Directory accounts created 
+
+![Image Alt Text](https://i.ibb.co/WxYLv0s/Active-Directory.png)
+
+
+
+
+
+
+
+
+
+
 - placehoder (Windows Event Logs)
 - placehoder(Linux Event Logs)
 - placehoder(Log Analytics Alerts Triggered)
