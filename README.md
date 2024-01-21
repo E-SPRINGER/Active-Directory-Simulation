@@ -3,14 +3,15 @@
 ## Create an Active Directory Domain
 
 
+In this project I create an Active Directory Domain
+Add multiple users using PowerShell adding a  computer(s) to the domain.  This simulates a corporate environment.
+
+
 
 ![Image Alt Text](https://i.ibb.co/8jLNRgP/AD-PROJECT.jpg)
 
 
 
-
-In this project I create an Active Directory Domain
-Add multiple users using PowerShell adding a  computer(s) to the domain.  This simulates a corporate environment.
 
 ## Technologies and Components Used:
 
@@ -110,6 +111,12 @@ My name was then placed at the top of the generated file to ensure the next scri
 
 
 ![Image Alt Text](https://i.ibb.co/hC8s3cB/WIN-10-iu-dhcp.png)
+
+
+## Domain login 
+This displays logging in with 2  of the 1000 user accounts that were 
+created using the PowerShell script
+
 
 
 
