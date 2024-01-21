@@ -128,13 +128,12 @@ created using the PowerShell script
 
 
 
+## Summary 
 
-
-
-
-
-- placehoder (Windows Event Logs)
-- placehoder(Linux Event Logs)
-- placehoder(Log Analytics Alerts Triggered)
-- placehoder(Linux Event Logs)
-- placehoder
+What I have learned here is how to setup and simulate a corporate domain
+installed Windows server 2019
+created  domain controller 
+assigned server roles which enables the server to support 
+users and compuers. 
+The process of adding users and computers would be repeated 
+as needed of the busniess
