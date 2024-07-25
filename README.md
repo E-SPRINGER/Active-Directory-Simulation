@@ -9,7 +9,7 @@ Add multiple users using PowerShell adding a  computer(s) to the domain.  This s
 
 
 
-![Image Alt Text](https://i.ibb.co/8jLNRgP/AD-PROJECT.jpg)
+![Image Alt Text](https://i.ibb.co/jVvpWpL/AD-PROJECT-updated.png)
 
 
 
